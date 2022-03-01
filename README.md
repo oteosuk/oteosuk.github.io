@@ -1,1 +1,1 @@
-# oteosuk.github.io
+# 첫 블로그 생성
